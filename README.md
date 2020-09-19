@@ -25,11 +25,16 @@
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
-[![Álvaro Riobóo's github stats](https://github-readme-stats.vercel.app/api?username=arioboo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioboo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Álvaro Riobóo's github stats](https://github-readme-stats.vercel.app/api?username=arioboo&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioboo&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![UNet_detector](https://github-readme-stats.vercel.app/api/pin/?username=arioboora&repo=UNet_detector)](https://github.com/anuraghazra/github-readme-stats)
-[![astro-gravitational_lenses](https://github-readme-stats.vercel.app/api/pin/?username=arioboora&repo=astro-gravitational_lenses)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/arioboo/UNet_detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=UNet_detector&show_owner=True&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/arioboo/astro-gravitational_lenses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=astro-gravitational_lenses&show_owner=True&theme=vision-friendly-dark" />
+</a>
+
 <br>
 
 ### Social/Apps Links:
