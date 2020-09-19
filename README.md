@@ -25,7 +25,7 @@
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
-[![Álvaro Riobóo's github stats](https://github-readme-stats.vercel.app/api?username=arioboo&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Álvaro Riobóo's github stats](https://github-readme-stats.vercel.app/api?username=arioboo&show_icons=true&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioboo&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/arioboo/UNet_detector">
@@ -33,9 +33,6 @@
 </a>
 <a href="https://github.com/arioboo/astro-gravitational_lenses">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=astro-gravitational_lenses&show_owner=True&theme=vision-friendly-dark" />
-</a>
-
-<br>
 
 ### Social/Apps Links:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/arioboo94/) 
