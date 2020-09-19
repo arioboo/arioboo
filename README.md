@@ -35,18 +35,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=astro-gravitational_lenses&show_owner=False&layout=compact&theme=vision-friendly-dark"/>
 </a>         
 
-### Social/Apps Links:
+### Social/Research/Apps Links:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/arioboo94/) 
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/alvaro.rioboodelarriva)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/arl94spejo)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/ataturkrioferdinand/) 
 
+[<img src="https://icon-icons.com/icons2/2407/PNG/48/orcid_icon_146132.png" width="35" height="35"/>](https://orcid.org/0000-0002-2487-1922)
+[<img src="https://static.torocloud.com/marketplace/extensions/icons/extension_4322_icon.png" width="35" height="35"/>](https://figshare.com/authors/Alvaro_Rioboo/7384466)
+[<img src="https://img.icons8.com/dusk/64/000000/zotero.png" width="35" height="35"/>](https://www.zotero.org/arioboo/)
+
 [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="35" height="35"/>](https://www.github.com/arioboo/)
 [<img src="https://img.icons8.com/windows/32/000000/kaggle.png" width="35" height="35"/>](https://www.kaggle.com/kelly8080)
-[<img src="https://www2.le.ac.uk/services/research-data/Figshare_logoe1465245099283.jpg" width="35" height="35"/>](https://figshare.com/authors/Alvaro_Rioboo/7384466)
 [<img src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="35" height="35"/>](https://anaconda.org/ataturk)
-[<img src="https://img.icons8.com/dusk/64/000000/zotero.png" width="35" height="35"/>](https://www.zotero.org/arioboo/)
 [<img src="https://img.icons8.com/color/48/000000/docker.png" width="35" height="35"/>](https://hub.docker.com/u/arl94)
 
 <br>
