@@ -22,19 +22,21 @@
 - 💡 A New `Project` in mind? Create your repo and add me as `Collaborator` with my `Username`: [arioboo](https://github.com/arioboo/)
 <br>
 
+
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-
-[![Álvaro Riobóo's github stats](https://github-readme-stats.vercel.app/api?username=arioboo&show_icons=true&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Álvaro Riobóo's github stats](https://github-readme-stats.vercel.app/api?username=arioboo&show_icons=true&layout=compact&hide=prs,issues&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioboo&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/arioboo/UNet_detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=UNet_detector&show_owner=True&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=UNet_detector&show_owner=False&theme=vision-friendly-dark"/>
 </a>
 <a href="https://github.com/arioboo/astro-gravitational_lenses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=astro-gravitational_lenses&show_owner=True&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=astro-gravitational_lenses&show_owner=True&&langs_count=4&theme=vision-friendly-dark"/>
+</a>         
 
 ### Social/Apps Links:
+
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/arioboo94/) 
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/alvaro.rioboodelarriva)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/arl94spejo)
