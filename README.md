@@ -26,8 +26,11 @@
 
 
 [![Álvaro Riobóo's github stats](https://github-readme-stats.vercel.app/api?username=arioboo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioboo&show_icons=true&layout=compact&theme=tokyonight")](https://github.com/anuraghazra/github-readme-stats)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioboo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![UNet_detector](https://github-readme-stats.vercel.app/api/pin/?username=arioboora&repo=UNet_detector)](https://github.com/anuraghazra/github-readme-stats)
+[![astro-gravitational_lenses](https://github-readme-stats.vercel.app/api/pin/?username=arioboora&repo=astro-gravitational_lenses)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 ### Social/Apps Links:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/arioboo94/) 
