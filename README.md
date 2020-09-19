@@ -44,6 +44,7 @@
 //
 [<img src="https://icon-icons.com/icons2/2407/PNG/48/orcid_icon_146132.png" width="35" height="35"/>](https://orcid.org/0000-0002-2487-1922)
 [<img src="https://static.torocloud.com/marketplace/extensions/icons/extension_4322_icon.png" width="35" height="35"/>](https://figshare.com/authors/Alvaro_Rioboo/7384466)
+[<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1470150968/halqcskldv3ge9nkpjsq.png" width="35" height="35"/>](https://www.researchgate.net/profile/Alvaro_Rioboo_De_Larriva2)
 [<img src="https://img.icons8.com/dusk/64/000000/zotero.png" width="35" height="35"/>](https://www.zotero.org/arioboo/)
 //
 [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="35" height="35"/>](https://www.github.com/arioboo/)
