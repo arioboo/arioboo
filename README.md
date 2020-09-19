@@ -22,6 +22,15 @@
 - 💡 A New `Project` in mind? Create your repo and add me as `Collaborator` with my `Username`: [arioboo](https://github.com/arioboo/)
 <br>
 
+*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioboo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img src="https://camo.githubusercontent.com/5de5e8e30be5d1830f65819012f5a2c4a04731df/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arioboo&amp;layout=compact&amp;theme=radical" style="max-width:100%;" align="middle">
+</a>
+
 ### Social/Apps Links:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/arioboo94/) 
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/alvaro.rioboodelarriva)
