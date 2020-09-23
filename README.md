@@ -52,4 +52,9 @@
 [<img src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="35" height="35"/>](https://anaconda.org/ataturk)
 [<img src="https://img.icons8.com/color/48/000000/docker.png" width="35" height="35"/>](https://hub.docker.com/u/arl94)
 
+### Activism:
+- \#BlackLivesMatter : main > master
+- \#ClimateChange : https://callforcode.org/
+- \#Covid_19: ![arioboo/covid19_study]()
+
 #### Have a nice day! (last_updated: 19/09/2020)
