@@ -59,9 +59,9 @@
   - \#ClimateChange : ![Call for code](https://callforcode.org/) ; ![Top-patterns](https://github.com/derekteay/call-for-code-top-patterns)
   - \#Covid_19 : ![arioboo/covid19_study](https://github.com/arioboo/covid19_study)
 
-  ### (last_updated: 19/09/2020)
+  #### (last_updated: 19/09/2020)
 </details>
 
 
 
-#### Have a nice day! 
+### Have a nice day! 
