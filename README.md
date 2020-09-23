@@ -54,7 +54,7 @@
 
 ### Activism:
 - \#BlackLivesMatter : main > master
-- \#ClimateChange : https://callforcode.org/
-- \#Covid_19: ![arioboo/covid19_study]()
+- \#ClimateChange : ![Call for code](https://callforcode.org/) ; ![Code-and-Response/Rove-Satellite-Analysis](https://github.com/Code-and-Response/Rove-Satellite-Analysis)
+- \#Covid_19 : ![arioboo/covid19_study](https://github.com/arioboo/covid19_study)
 
 #### Have a nice day! (last_updated: 19/09/2020)
