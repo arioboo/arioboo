@@ -22,7 +22,7 @@
 - 💡 A New `Project` in mind? Create your repo and add me as `Collaborator` with my `Username`: [arioboo](https://github.com/arioboo/)
 <br>
 
-
+### Stats:
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 [![Álvaro Riobóo's github stats](https://github-readme-stats.vercel.app/api?username=arioboo&show_icons=true&layout=compact&hide=prs,issues&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,6 +34,9 @@
 <a href="https://github.com/arioboo/astro-gravitational_lenses">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arioboo&repo=astro-gravitational_lenses&show_owner=False&layout=compact&theme=vision-friendly-dark"/>
 </a>         
+
+### Background knowledge:
+<img src=https://raw.github.com/arioboo/arioboo/main/img/CV_skill_chart.png height=450 width=600/><img src=https://raw.github.com/arioboo/arioboo/main/img/dist_sT.png height=250 width=300/>
 
 ### Social//Research//Apps Links:
 
